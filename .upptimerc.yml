@@ -7,8 +7,6 @@ sites:
     url: https://federal-science-datahub.canada.ca/register
   - name: FSDH POC(Vanity) FR
     url: https://datahub-scientifique-federal.canada.ca/register
-  - name: FSDH POC EN-FR
-    url: https://pre.fsdh-dhsf.science.cloud-nuage.canada.ca
   - name: FSDH DEV
     url: https://fsdh-portal-app-dev.azurewebsites.net/register
   - name: FSDH INT
@@ -19,9 +17,6 @@ sites:
 
     
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
   baseUrl: /proto-datahub-uptime 
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime

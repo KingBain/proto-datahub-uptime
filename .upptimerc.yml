@@ -4,7 +4,7 @@ repo: proto-datahub-uptime # The name of this repository
 
 sites:
   - name: FSDH
-    url: https://federal-science-datahub.canada.ca
+    url: https://federal-science-datahub.canada.ca/login
   - name: FSDH Registration Page
     url: https://pre.fsdh-dhsf.science.cloud-nuage.canada.ca
 

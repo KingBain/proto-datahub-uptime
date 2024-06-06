@@ -62,7 +62,7 @@
     "slug": "fsdh-int",
     "status": "down",
     "uptime": "73.27%",
-    "uptimeDay": "92.84%",
+    "uptimeDay": "92.75%",
     "uptimeWeek": "76.26%",
     "uptimeMonth": "73.27%",
     "uptimeYear": "73.27%",
@@ -72,7 +72,7 @@
     "timeMonth": 5153,
     "timeYear": 5153,
     "dailyMinutesDown": {
-      "2024-06-06": 0,
+      "2024-06-06": 1,
       "2024-06-05": 103,
       "2024-06-04": 286,
       "2024-06-03": 173,

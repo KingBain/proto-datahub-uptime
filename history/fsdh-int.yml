@@ -1,7 +1,7 @@
 url: https://fsdh-portal-app-int.azurewebsites.net/register
-status: down
-code: 503
-responseTime: 2771
-lastUpdated: 2024-06-23T06:40:35.255Z
+status: up
+code: 200
+responseTime: 3361
+lastUpdated: 2024-06-23T06:49:12.937Z
 startTime: 2024-05-22T19:09:25.966Z
 generator: Upptime <https://github.com/upptime/upptime>

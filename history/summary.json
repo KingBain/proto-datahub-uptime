@@ -67,12 +67,12 @@
     "url": "https://fsdh-portal-app-int.azurewebsites.net/register",
     "icon": "https://icons.duckduckgo.com/ip3/fsdh-portal-app-int.azurewebsites.net.ico",
     "slug": "fsdh-int",
-    "status": "up",
-    "uptime": "86.73%",
-    "uptimeDay": "12.90%",
+    "status": "down",
+    "uptime": "86.76%",
+    "uptimeDay": "14.30%",
     "uptimeWeek": "77.65%",
     "uptimeMonth": "84.38%",
-    "uptimeYear": "86.73%",
+    "uptimeYear": "86.76%",
     "time": 4384,
     "timeDay": 6727,
     "timeWeek": 4074,
@@ -109,8 +109,7 @@
       "2024-06-01": 534,
       "2024-05-31": 181,
       "2024-05-30": 410,
-      "2024-05-29": 142,
-      "2024-05-28": 19
+      "2024-05-29": 142
     }
   },
   {

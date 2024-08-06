@@ -22,7 +22,7 @@
     "url": "https://datahub-scientifique-federal.canada.ca/register",
     "icon": "https://icons.duckduckgo.com/ip3/datahub-scientifique-federal.canada.ca.ico",
     "slug": "fsdh-poc-vanity-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 249,
     "timeMonth": 324,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-06": 0
+    }
   },
   {
     "name": "FSDH DEV",
@@ -41,14 +43,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/fsdh-portal-app-dev.azurewebsites.net.ico",
     "slug": "fsdh-dev",
     "status": "up",
-    "uptime": "98.75%",
+    "uptime": "98.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.30%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "98.75%",
+    "uptimeYear": "98.76%",
     "time": 1146,
     "timeDay": 1074,
-    "timeWeek": 990,
+    "timeWeek": 939,
     "timeMonth": 614,
     "timeYear": 1146,
     "dailyMinutesDown": {
@@ -72,18 +74,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fsdh-portal-app-int.azurewebsites.net.ico",
     "slug": "fsdh-int",
     "status": "up",
-    "uptime": "88.93%",
-    "uptimeDay": "86.91%",
-    "uptimeWeek": "71.95%",
-    "uptimeMonth": "72.47%",
-    "uptimeYear": "88.93%",
+    "uptime": "88.97%",
+    "uptimeDay": "87.53%",
+    "uptimeWeek": "72.04%",
+    "uptimeMonth": "72.41%",
+    "uptimeYear": "88.97%",
     "time": 5013,
     "timeDay": 3325,
     "timeWeek": 6969,
     "timeMonth": 5821,
     "timeYear": 5013,
     "dailyMinutesDown": {
-      "2024-08-06": 188,
+      "2024-08-06": 179,
       "2024-08-05": 204,
       "2024-08-04": 1043,
       "2024-08-03": 1178,
@@ -108,7 +110,7 @@
       "2024-07-15": 640,
       "2024-07-14": 1440,
       "2024-07-13": 1390,
-      "2024-07-12": 213
+      "2024-07-12": 251
     }
   },
   {

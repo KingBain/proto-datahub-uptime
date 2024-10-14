@@ -78,17 +78,16 @@
     "slug": "fsdh-int",
     "status": "up",
     "uptime": "94.91%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "92.22%",
-    "uptimeMonth": "83.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.29%",
+    "uptimeMonth": "83.92%",
     "uptimeYear": "94.91%",
     "time": 5776,
     "timeDay": 6606,
-    "timeWeek": 5603,
+    "timeWeek": 5812,
     "timeMonth": 7820,
     "timeYear": 5776,
     "dailyMinutesDown": {
-      "2024-10-13": 7,
       "2024-10-12": 20,
       "2024-10-11": 643,
       "2024-10-10": 25,
@@ -122,7 +121,7 @@
       "2024-09-10": 611,
       "2024-08-20": 277,
       "2024-08-19": 559,
-      "2024-08-18": 259
+      "2024-08-18": 275
     }
   },
   {

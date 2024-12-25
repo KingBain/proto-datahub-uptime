@@ -1,7 +1,7 @@
 url: https://datahub-scientifique-federal.canada.ca/register
-status: up
-code: 200
-responseTime: 468
-lastUpdated: 2024-12-24T23:06:12.221Z
+status: down
+code: 502
+responseTime: 145
+lastUpdated: 2024-12-25T15:53:50.340Z
 startTime: 2024-05-22T19:08:39.242Z
 generator: Upptime <https://github.com/upptime/upptime>

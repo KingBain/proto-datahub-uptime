@@ -4,36 +4,40 @@
     "url": "https://federal-science-datahub.canada.ca/register",
     "icon": "https://icons.duckduckgo.com/ip3/federal-science-datahub.canada.ca.ico",
     "slug": "fsdh-poc-vanity-en",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 462,
-    "timeDay": 500,
-    "timeWeek": 303,
-    "timeMonth": 325,
-    "timeYear": 462,
-    "dailyMinutesDown": {}
+    "time": 461,
+    "timeDay": 336,
+    "timeWeek": 286,
+    "timeMonth": 320,
+    "timeYear": 461,
+    "dailyMinutesDown": {
+      "2024-12-25": 0
+    }
   },
   {
     "name": "FSDH POC(Vanity) FR",
     "url": "https://datahub-scientifique-federal.canada.ca/register",
     "icon": "https://icons.duckduckgo.com/ip3/datahub-scientifique-federal.canada.ca.ico",
     "slug": "fsdh-poc-vanity-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 290,
-    "timeDay": 468,
-    "timeWeek": 307,
-    "timeMonth": 281,
-    "timeYear": 290,
-    "dailyMinutesDown": {}
+    "time": 289,
+    "timeDay": 307,
+    "timeWeek": 287,
+    "timeMonth": 277,
+    "timeYear": 289,
+    "dailyMinutesDown": {
+      "2024-12-25": 0
+    }
   },
   {
     "name": "FSDH DEV",
@@ -87,17 +91,17 @@
     "slug": "fsdh-int",
     "status": "up",
     "uptime": "97.84%",
-    "uptimeDay": "91.24%",
-    "uptimeWeek": "95.60%",
-    "uptimeMonth": "94.54%",
+    "uptimeDay": "91.75%",
+    "uptimeWeek": "95.67%",
+    "uptimeMonth": "94.56%",
     "uptimeYear": "97.84%",
     "time": 5447,
     "timeDay": 9260,
-    "timeWeek": 3802,
+    "timeWeek": 3941,
     "timeMonth": 4270,
     "timeYear": 5447,
     "dailyMinutesDown": {
-      "2024-12-25": 126,
+      "2024-12-25": 119,
       "2024-12-23": 211,
       "2024-12-21": 34,
       "2024-12-20": 19,
@@ -152,7 +156,7 @@
       "2024-10-17": 61,
       "2024-10-16": 96,
       "2024-10-15": 25,
-      "2024-10-14": 29
+      "2024-10-14": 64
     }
   },
   {

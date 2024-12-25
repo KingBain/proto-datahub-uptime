@@ -4,19 +4,19 @@
     "url": "https://federal-science-datahub.canada.ca/register",
     "icon": "https://icons.duckduckgo.com/ip3/federal-science-datahub.canada.ca.ico",
     "slug": "fsdh-poc-vanity-en",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 461,
-    "timeDay": 336,
-    "timeWeek": 286,
-    "timeMonth": 320,
+    "timeDay": 407,
+    "timeWeek": 315,
+    "timeMonth": 327,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2024-12-25": 0
+      "2024-12-25": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://datahub-scientifique-federal.canada.ca/register",
     "icon": "https://icons.duckduckgo.com/ip3/datahub-scientifique-federal.canada.ca.ico",
     "slug": "fsdh-poc-vanity-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 289,
-    "timeDay": 307,
-    "timeWeek": 287,
-    "timeMonth": 277,
-    "timeYear": 289,
+    "time": 290,
+    "timeDay": 385,
+    "timeWeek": 315,
+    "timeMonth": 285,
+    "timeYear": 290,
     "dailyMinutesDown": {
-      "2024-12-25": 0
+      "2024-12-25": 10
     }
   },
   {

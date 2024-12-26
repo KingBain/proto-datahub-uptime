@@ -6,18 +6,16 @@
     "slug": "fsdh-poc-vanity-en",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 461,
-    "timeDay": 407,
-    "timeWeek": 315,
-    "timeMonth": 327,
-    "timeYear": 461,
-    "dailyMinutesDown": {
-      "2024-12-25": 10
-    }
+    "time": 460,
+    "timeDay": 318,
+    "timeWeek": 319,
+    "timeMonth": 322,
+    "timeYear": 460,
+    "dailyMinutesDown": {}
   },
   {
     "name": "FSDH POC(Vanity) FR",
@@ -26,18 +24,16 @@
     "slug": "fsdh-poc-vanity-fr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 290,
-    "timeDay": 385,
-    "timeWeek": 315,
-    "timeMonth": 285,
+    "timeDay": 297,
+    "timeWeek": 309,
+    "timeMonth": 286,
     "timeYear": 290,
-    "dailyMinutesDown": {
-      "2024-12-25": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FSDH DEV",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.37%",
-    "time": 1133,
-    "timeDay": 357,
+    "time": 1130,
+    "timeDay": 151,
     "timeWeek": 252,
     "timeMonth": 223,
-    "timeYear": 1133,
+    "timeYear": 1130,
     "dailyMinutesDown": {
       "2024-11-08": 46,
       "2024-11-07": 18,
@@ -95,11 +91,11 @@
     "uptimeWeek": "95.67%",
     "uptimeMonth": "94.56%",
     "uptimeYear": "97.84%",
-    "time": 5447,
-    "timeDay": 9260,
-    "timeWeek": 3941,
+    "time": 5442,
+    "timeDay": 9205,
+    "timeWeek": 3943,
     "timeMonth": 4270,
-    "timeYear": 5447,
+    "timeYear": 5442,
     "dailyMinutesDown": {
       "2024-12-25": 119,
       "2024-12-23": 211,
@@ -171,9 +167,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 375,
-    "timeWeek": 230,
-    "timeMonth": 213,
+    "timeDay": 179,
+    "timeWeek": 235,
+    "timeMonth": 215,
     "timeYear": 211,
     "dailyMinutesDown": {}
   }

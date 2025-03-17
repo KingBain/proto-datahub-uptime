@@ -85,18 +85,19 @@
     "url": "https://fsdh-portal-app-int.azurewebsites.net/register",
     "icon": "https://icons.duckduckgo.com/ip3/fsdh-portal-app-int.azurewebsites.net.ico",
     "slug": "fsdh-int",
-    "status": "up",
-    "uptime": "98.72%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.73%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "96.08%",
     "uptimeMonth": "96.86%",
-    "uptimeYear": "98.72%",
+    "uptimeYear": "98.73%",
     "time": 5259,
     "timeDay": 578,
     "timeWeek": 4186,
     "timeMonth": 3299,
     "timeYear": 5259,
     "dailyMinutesDown": {
+      "2025-03-17": 0,
       "2025-03-15": 236,
       "2025-03-14": 27,
       "2025-03-13": 32,
@@ -152,7 +153,7 @@
       "2024-12-31": 105,
       "2024-12-30": 49,
       "2024-12-29": 60,
-      "2024-12-28": 54
+      "2024-12-28": 20
     }
   },
   {

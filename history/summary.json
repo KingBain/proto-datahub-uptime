@@ -4,9 +4,9 @@
     "url": "https://federal-science-datahub.canada.ca/register",
     "icon": "https://icons.duckduckgo.com/ip3/federal-science-datahub.canada.ca.ico",
     "slug": "fsdh-poc-vanity-en",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 252,
     "timeMonth": 338,
     "timeYear": 418,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-27": 0
+    }
   },
   {
     "name": "FSDH POC(Vanity) FR",
     "url": "https://datahub-scientifique-federal.canada.ca/register",
     "icon": "https://icons.duckduckgo.com/ip3/datahub-scientifique-federal.canada.ca.ico",
     "slug": "fsdh-poc-vanity-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 231,
     "timeMonth": 365,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-27": 0
+    }
   },
   {
     "name": "FSDH DEV",
@@ -87,17 +91,17 @@
     "slug": "fsdh-int",
     "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "89.24%",
-    "uptimeWeek": "91.98%",
-    "uptimeMonth": "96.14%",
+    "uptimeDay": "90.07%",
+    "uptimeWeek": "92.10%",
+    "uptimeMonth": "96.26%",
     "uptimeYear": "98.69%",
     "time": 5260,
     "timeDay": 8601,
     "timeWeek": 4980,
-    "timeMonth": 4445,
+    "timeMonth": 4327,
     "timeYear": 5260,
     "dailyMinutesDown": {
-      "2025-03-27": 155,
+      "2025-03-27": 143,
       "2025-03-26": 253,
       "2025-03-25": 189,
       "2025-03-22": 145,
@@ -151,7 +155,7 @@
       "2025-01-10": 39,
       "2025-01-09": 29,
       "2025-01-08": 113,
-      "2025-01-07": 83
+      "2025-01-07": 103
     }
   },
   {

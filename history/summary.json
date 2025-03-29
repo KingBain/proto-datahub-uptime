@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/federal-science-datahub.canada.ca.ico",
     "slug": "fsdh-poc-vanity-en",
     "status": "down",
-    "uptime": "99.38%",
+    "uptime": "99.36%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.68%",
-    "uptimeMonth": "93.71%",
-    "uptimeYear": "99.38%",
+    "uptimeWeek": "71.71%",
+    "uptimeMonth": "93.49%",
+    "uptimeYear": "99.36%",
     "time": 418,
     "timeDay": 0,
     "timeWeek": 241,
     "timeMonth": 342,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2025-03-29": 1061,
+      "2025-03-29": 1159,
       "2025-03-28": 1440,
       "2025-03-27": 253
     }
@@ -27,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/datahub-scientifique-federal.canada.ca.ico",
     "slug": "fsdh-poc-vanity-fr",
     "status": "down",
-    "uptime": "99.38%",
+    "uptime": "99.36%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.68%",
-    "uptimeMonth": "93.71%",
-    "uptimeYear": "99.38%",
+    "uptimeWeek": "71.71%",
+    "uptimeMonth": "93.49%",
+    "uptimeYear": "99.36%",
     "time": 302,
     "timeDay": 0,
     "timeWeek": 249,
     "timeMonth": 371,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2025-03-29": 1061,
+      "2025-03-29": 1159,
       "2025-03-28": 1440,
       "2025-03-27": 253
     }
@@ -93,9 +93,9 @@
     "url": "https://fsdh-portal-app-int.azurewebsites.net/register",
     "icon": "https://icons.duckduckgo.com/ip3/fsdh-portal-app-int.azurewebsites.net.ico",
     "slug": "fsdh-int",
-    "status": "up",
+    "status": "down",
     "uptime": "98.66%",
-    "uptimeDay": "77.66%",
+    "uptimeDay": "77.65%",
     "uptimeWeek": "88.68%",
     "uptimeMonth": "95.08%",
     "uptimeYear": "98.66%",
@@ -157,7 +157,7 @@
       "2025-01-14": 37,
       "2025-01-13": 121,
       "2025-01-12": 146,
-      "2025-01-11": 250
+      "2025-01-11": 221
     }
   },
   {

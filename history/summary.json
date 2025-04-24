@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "93.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.35%",
+    "uptimeWeek": "93.41%",
     "uptimeMonth": "32.08%",
     "uptimeYear": "93.85%",
     "time": 416,
@@ -49,7 +49,7 @@
     "uptime": "91.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "10.60%",
+    "uptimeMonth": "10.58%",
     "uptimeYear": "91.91%",
     "time": 302,
     "timeDay": 0,
@@ -57,7 +57,7 @@
     "timeMonth": 279,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2025-04-24": 30,
+      "2025-04-24": 37,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
@@ -138,10 +138,10 @@
     "url": "https://fsdh-portal-app-int.azurewebsites.net/register",
     "icon": "https://icons.duckduckgo.com/ip3/fsdh-portal-app-int.azurewebsites.net.ico",
     "slug": "fsdh-int",
-    "status": "up",
+    "status": "down",
     "uptime": "98.21%",
-    "uptimeDay": "86.10%",
-    "uptimeWeek": "76.29%",
+    "uptimeDay": "86.55%",
+    "uptimeWeek": "76.35%",
     "uptimeMonth": "82.51%",
     "uptimeYear": "98.21%",
     "time": 5334,
@@ -150,6 +150,7 @@
     "timeMonth": 6336,
     "timeYear": 5334,
     "dailyMinutesDown": {
+      "2025-04-24": 0,
       "2025-04-23": 228,
       "2025-04-22": 305,
       "2025-04-21": 511,
@@ -193,8 +194,7 @@
       "2025-03-08": 42,
       "2025-03-07": 34,
       "2025-03-06": 32,
-      "2025-03-05": 33,
-      "2025-03-01": 33
+      "2025-03-05": 33
     }
   },
   {
